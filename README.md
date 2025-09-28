@@ -252,10 +252,6 @@ zig build test
 zig build -Doptimize=ReleaseFast
 ```
 
-## License
-
-MIT License
-
 ## Contributing
 
 Bug reports and feature requests are welcome through GitHub Issues.
@@ -264,3 +260,4 @@ Bug reports and feature requests are welcome through GitHub Issues.
 
 - [65C02 Datasheet](https://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf)
 - [6502 Instruction Reference](http://www.6502.org/tutorials/6502opcodes.html)
+
